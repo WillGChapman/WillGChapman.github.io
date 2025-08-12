@@ -4,7 +4,7 @@ I am a data scientist at the Jean Golding Institute (JGI), University of Bristol
 
 ## About Me
 
-With a background spanning psychology, neuropsychology, and data science, I specialise in advanced statistical analysis, multilevel and mixture modelling, and computational approaches to complex data. My skillset includes experimental design, parameter estimation, and the application of modern statistical techniques to large and heterogeneous datasets. I am particularly interested in big data challenges, especially those arising in healthcare, where robust modelling and reproducible workflows can drive improvements in research and patient outcomes. I also have a strong interest in probabilistic programming for Bayesian model fitting, leveraging these tools to better capture uncertainty and complexity in data. My PhD explored how perceptual uncertainty influences human actions, using three-dimensional motion tracking and multilevel modelling. I am passionate about reproducible research and open science, and currently contribute to projects improving healthcare data pipelines and other research using large publicly available datasets.
+I’m a recovering psychologist turned data wrangler, now working at the Jean Golding Institute. My career has been a journey from poking at brains to poking at spreadsheets. Sometimes with more success than others. I specialise in making sense of messy, complicated data (and occasionally making it messier), especially in healthcare, where the stakes are high and the datasets are even higher. My PhD involved convincing people to reach for things while I tried to figure out what they were thinking—turns out, it’s complicated. I’m passionate about open science, reproducible research, and pretending I understand Bayesian statistics. If you need someone to find patterns in chaos, or just want to talk about the joys and frustrations of big data, I’m your person (or at least, I know where to look).
 
 ## Professional Experience
 
@@ -29,6 +29,6 @@ With a background spanning psychology, neuropsychology, and data science, I spec
 
 ## Connect
 
-- [LinkedIn Profile](https://www.linkedin.com/in/will-chapman-7b7b2b1a2/)
-- [Jean Golding Institute](https://www.bristol.ac.uk/golding-institute/)
+- [LinkedIn Profile](https://www.linkedin.com/in/william-chapman-80401481/)
+- [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
 - [University of Bristol](https://www.bristol.ac.uk/)
